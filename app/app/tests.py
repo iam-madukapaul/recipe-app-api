@@ -5,7 +5,7 @@ from app import calc
 
 
 class CalcTests(SimpleTestCase):
-    """Test adding numbers together."""
+    """Test add numbers together."""
     def test_add_numbers(self):
         res = calc.add(5, 6)
         self.assertEqual(res, 11)
