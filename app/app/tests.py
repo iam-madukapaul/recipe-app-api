@@ -3,7 +3,6 @@
 from django.test import SimpleTestCase
 from app import calc
 
-
 class CalcTests(SimpleTestCase):
     """Test add numbers together."""
     def test_add_numbers(self):
