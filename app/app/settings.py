@@ -151,5 +151,14 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
+    'TITLE': 'RECIPE-APP API',
+    'DESCRIPTION': 'This API powers a recipe management application. \
+        It supports Docker-based setup, GitHub Actions for CI/CD, and \
+            provides endpoints for managing users, tags, ingredients, \
+                and recipes. The API includes features like image uploads, \
+                    filtering, and deployment capabilities, all backed by \
+                        comprehensive unit testing.',
+    'VERSION': '1.0.0',
+    'SERVE_INCLUDE_SCHEMA': False,
     'COMPONENT_SPLIT_REQUEST': True,
 }
