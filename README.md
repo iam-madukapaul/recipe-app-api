@@ -73,6 +73,7 @@ Contributions are welcome! If you'd like to contribute to the Recipe-App API, pl
 At the time of development, this project was deployed on AWS. As such, there are some AWS-specific deployment configurations within the code to support cloud deployment.
 
 Please note that the deployment setup may need to be adjusted based on your environment, but this project was originally designed with AWS in mind.
+![Screenshot 2025-04-08 082246](https://github.com/user-attachments/assets/0f353b0e-764b-487a-b293-9fbabb21edf1)
 
 ## Docs
 #### Swagger: [Documentation](https://swagger.io/docs/)
