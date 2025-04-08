@@ -74,10 +74,3 @@ At the time of development, this project was deployed on AWS. As such, there are
 
 Please note that the deployment setup may need to be adjusted based on your environment, but this project was originally designed with AWS in mind.
 ![Screenshot 2025-04-08 082246](https://github.com/user-attachments/assets/0f353b0e-764b-487a-b293-9fbabb21edf1)
-
-## Docs
-#### Swagger: [Documentation](https://swagger.io/docs/)
-![Screenshot 2025-04-07 175408](https://github.com/user-attachments/assets/75faa7ca-a35a-4f89-947b-19ea00b6fd37)
-![Screenshot 2025-04-08 075315](https://github.com/user-attachments/assets/526507ed-e11b-4490-ba2f-e910cbce9264)
-![Screenshot 2025-04-08 075340](https://github.com/user-attachments/assets/2f576833-ffa6-4c14-ba30-7c86abc9ba7b)
-
